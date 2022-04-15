@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/chen123/CLionProjects/ZLToolKit'
+make: Leaving directory '/home/chen123/CLionProjects/ZLToolKit'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
